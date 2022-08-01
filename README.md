@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python with Pandas etc
 - 💞️ I’m looking to collaborate on everyone
 - 📫 How to reach me you can sendme a email rmanuelfigueredo@gmail.com
-- 👨‍💻 Follow: <a>linkedin.com/in/rodrigofigueredo/</a>
+- 👨‍💻 Follow: linkedin.com/in/rodrigofigueredo/
 
 <!---
 rofigueredo/rofigueredo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
